@@ -1,0 +1,12 @@
+# Visual Stdio Files
+.vs/
+
+# VS Code Files
+.vscode/
+
+# Debug Files
+Debug/
+TheKeyInsight/Debug/
+
+# Encrypted Log Files 
+TheKeyInsight/EncryptedLogs/
